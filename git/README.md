@@ -1,1 +1,1 @@
-Not empty file
+This is a trail to commit changes
